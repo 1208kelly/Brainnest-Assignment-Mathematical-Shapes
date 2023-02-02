@@ -1,2 +1,2 @@
-# Brainnest-Assignment-Mathamatical-Shapes
- Brainnest Assignment Mathamatical Shapes
+# Brainnest-Assignment-Mathematical-Shapes
+ Brainnest Assignment Mathematical Shapes
